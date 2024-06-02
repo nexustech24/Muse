@@ -1,6 +1,8 @@
 # Muse
 Muse is a browser, forked from this repro: https://github.com/htoukour/Mozart
 
+help me I need adblocker help
+
 # Features and Stuff I will add
 
 Muse has:
